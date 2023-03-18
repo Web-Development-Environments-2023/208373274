@@ -79,10 +79,9 @@ div#menu a
 	text-decoration: none;
 }
 
-div#menu li:hover 
-{
+div#menu li:not(:first-child):hover {
 	background-color: rgb(59, 45, 27);
-}
+  }
 
 div#menu li:hover a 
 {
