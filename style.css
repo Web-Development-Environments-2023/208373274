@@ -195,11 +195,11 @@ h1{
 	vertical-align: top;
   }
 
-  label[for="email"] {
+  label[for="subject"] {
 	margin-left: -45px;
   }
 
-  input[type="text"], input[type="email"], textarea {
+  input[type="text"], input[type="subject"], textarea {
 	width: 250px;
 	padding: 6px;
 	border: 1px solid #ccc;
