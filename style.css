@@ -216,7 +216,7 @@ h1{
 	height: 100px;
   }
 
-  input[type="submit"] {
+  input[type="button"] {
 	background-color: rgb(59, 45, 27);
 	color: white;
 	padding: 12px 20px;
@@ -225,7 +225,7 @@ h1{
 	cursor: pointer;
 }
 
-  input[type="submit"]:hover {
+  input[type="button"]:hover {
 	background-color: rgb(41, 30, 17);
   }
 
